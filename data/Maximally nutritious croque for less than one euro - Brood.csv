@@ -1,0 +1,10 @@
+name,ppi,wpi,slpi,enpw,ppkg,ppsl,wpsl,enpsl,eff
+unit,price / item (euro),weight / item (g),slices / item,energy / 100g (kcal/100g),price / kg (euro/kg),price / slice (euro),weight / slice (g),energy / slice (kcal),efficiency (kcal/euro)
+Everyday wit brood gesneden,0.89,800,25,247,1.1125,0.0356,32,79.04,2220.224719
+Everyday bruin brood gesneden,0.99,800,25,254,1.2375,0.0396,32,81.28,2052.525253
+Boni pitabroodje,0.89,500,20,252,1.78,0.0445,25,63,1415.730337
+Brood lang grof VGB,1.49,800,25,223,1.8625,0.0596,32,71.36,1197.315436
+Boni hoevebrood wit,1.75,800,20,244,2.1875,0.0875,40,97.6,1115.428571
+Boni hoevebrood bruin,1.75,800,20,240,2.1875,0.0875,40,96,1097.142857
+Boni toastbrood,1.29,500,24,266,2.58,0.05375,20.83333333,55.41666667,1031.007752
+Boni hamburger broodjes,1.06,300,12,290,3.533333333,0.08833333333,25,72.5,820.754717
