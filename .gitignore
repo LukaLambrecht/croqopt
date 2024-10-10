@@ -1,0 +1,5 @@
+# ignore caches
+**__pycache__**
+
+# ignore secret API key
+colruyt_scraper/urls_private.py
